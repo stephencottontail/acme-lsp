@@ -1,0 +1,24 @@
+# 9fans.net/internal/go-lsp v0.0.0-20240621142652-b2eeae9fa405
+## explicit; go 1.20
+9fans.net/internal/go-lsp/lsp/protocol
+# github.com/BurntSushi/toml v0.3.1
+## explicit
+github.com/BurntSushi/toml
+# github.com/fhs/9fans-go v0.0.0-fhs.20200606
+## explicit; go 1.13
+github.com/fhs/9fans-go/acme
+github.com/fhs/9fans-go/draw
+github.com/fhs/9fans-go/draw/drawfcall
+github.com/fhs/9fans-go/plan9
+github.com/fhs/9fans-go/plan9/client
+github.com/fhs/9fans-go/plumb
+# github.com/google/go-cmp v0.3.0
+## explicit; go 1.8
+github.com/google/go-cmp/cmp
+github.com/google/go-cmp/cmp/internal/diff
+github.com/google/go-cmp/cmp/internal/flags
+github.com/google/go-cmp/cmp/internal/function
+github.com/google/go-cmp/cmp/internal/value
+# github.com/sourcegraph/jsonrpc2 v0.2.0
+## explicit; go 1.12
+github.com/sourcegraph/jsonrpc2
